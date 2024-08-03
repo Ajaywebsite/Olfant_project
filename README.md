@@ -9,7 +9,7 @@ A prominent “Report” button is displayed on the webpage.
 When clicked, it triggers the issue reporting process.
 Pop-up Form:
 Upon clicking the “Report” button, a modal or pop-up form appears.
-Users can input relevant information, such as the nature of the issue, description, and any additional context.
+Users can input relevant issue description.
 Data Submission:
 After users fill out the form, they click “Save Changes.”
 The entered data is securely submitted to two data storage systems:
